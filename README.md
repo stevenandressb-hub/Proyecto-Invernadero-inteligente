@@ -10,9 +10,9 @@ Sistema local de monitoreo ambiental mediante ESP32, sensores y un panel web ada
 
 | Nombre completo | Programa / grupo | Responsabilidad en el proyecto |
 |---|---|---|
-| __________________________ | __________________ | __________________________ |
-| __________________________ | __________________ | __________________________ |
-| __________________________ | __________________ | __________________________ |
+| Alberto Fandiño | __________________ | __________________________ |
+| Steven Santamaria | __________________ | __________________________ |
+| Alexandro Leones | __________________ | __________________________ |
 
 ## 2. Descripción general
 
